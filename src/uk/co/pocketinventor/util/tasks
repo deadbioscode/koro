@@ -5,3 +5,4 @@
 	
 *** IMPORTANT ***
 	Create a controller class that inits when a project is run and stores all nodes and other objects by their id and object
+	Create devmode settings on init for devmode and other exception checking
