@@ -1,3 +1,7 @@
-TODO
+--NOTES--
 
-Create extension for ip address for ports to be appended
+*** TODO ***
+	Create extension for ip address for ports to be appended
+	
+*** IMPORTANT ***
+	Create a controller class that inits when a project is run and stores all nodes and other objects by their id and object
