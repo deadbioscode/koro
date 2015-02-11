@@ -27,7 +27,7 @@ public class ConfIO {
 		}
 		
 		if (!new File(fileLocation).exists()) {
-			try (PrintWriter writer = new PrintWriter(fileLocation, "UTF-8")) {
+			try (PrintWriter writer = new PrintWriter(fileLocation, "UTF-8 ")) {
 				String data = "";
 				for (Property p : properties) {
 					if (p.isComment) {
